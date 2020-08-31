@@ -3,7 +3,7 @@ package cn.tedu.zhaungshizhemoshi;
 public class BattercakeWithEggSausage extends BattercakeWithEgg {
     @Override
     public String getDesc() {
-        return super.getDesc()+ " 加一根香肠";
+        return super.getDesc()+ " 加一根几把";
     }
 
     @Override
