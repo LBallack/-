@@ -2,11 +2,11 @@ package cn.tedu.zhaungshizhemoshi;
 
 public class Battercake {
     protected String getDesc() {
-        return "二逼货";
+        return "卧槽妈卖批的";
     }
 
     protected int cost() {
-        return 1;
+        return 45;
     }
 
 }
